@@ -93,7 +93,7 @@
             // 
             // pnlMenuVertical
             // 
-            this.pnlMenuVertical.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(187)))), ((int)(((byte)(143)))), ((int)(((byte)(169)))));
+            this.pnlMenuVertical.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(75)))), ((int)(((byte)(142)))), ((int)(((byte)(141)))));
             this.pnlMenuVertical.Controls.Add(this.btnCliente);
             this.pnlMenuVertical.Controls.Add(this.btnCerrarSesion);
             this.pnlMenuVertical.Controls.Add(this.btnPedidos);
@@ -193,7 +193,7 @@
             // 
             // pnlBarraSuperior
             // 
-            this.pnlBarraSuperior.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(86)))), ((int)(((byte)(7)))), ((int)(((byte)(100)))));
+            this.pnlBarraSuperior.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(57)))), ((int)(((byte)(99)))), ((int)(((byte)(98)))));
             this.pnlBarraSuperior.Controls.Add(this.btnMinimizar);
             this.pnlBarraSuperior.Controls.Add(this.btnMenuVertical);
             this.pnlBarraSuperior.Controls.Add(this.btnCerrar);
